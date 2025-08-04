@@ -32,8 +32,6 @@ The AI system provides:
 
 The tool is designed for health workers in rural or semi-urban areas without easy access to a specialist. It will work on a computer or tablet, even with limited internet connectivity.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Stethoscope_3.jpg" width="300">
-
 ## Data sources and AI methods
 
 Input data:
